@@ -1,0 +1,13 @@
+Loading required package: igraph
+
+Attaching package: 'igraph'
+
+The following objects are masked from 'package:stats':
+
+    decompose, spectrum
+
+The following object is masked from 'package:base':
+
+    union
+
+slurmstepd: error: *** JOB 10392419 ON knl-0202 CANCELLED AT 2022-02-25T15:04:23 DUE TO TIME LIMIT ***

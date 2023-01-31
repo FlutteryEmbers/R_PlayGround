@@ -1,0 +1,14 @@
+Loading required package: igraph
+
+Attaching package: 'igraph'
+
+The following objects are masked from 'package:stats':
+
+    decompose, spectrum
+
+The following object is masked from 'package:base':
+
+    union
+
+/sw/hprc/sw/R_tamu/bin/Rscript: line 75: 53346 Killed                  ${EBROOTR}/bin/Rscript ${ARGS[@]}
+slurmstepd: error: Detected 1 oom-kill event(s) in StepId=10392105.batch cgroup. Some of your processes may have been killed by the cgroup out-of-memory handler.

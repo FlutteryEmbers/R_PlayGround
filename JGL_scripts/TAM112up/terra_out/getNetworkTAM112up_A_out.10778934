@@ -1,0 +1,18 @@
+Loading required package: igraph
+
+Attaching package: 'igraph'
+
+The following objects are masked from 'package:stats':
+
+    decompose, spectrum
+
+The following object is masked from 'package:base':
+
+    union
+
+
+Number of connected nodes:  5150 
+Number of subnetworks in each class:  1 1 
+Number of edges in each class:  7821 7220 
+Number of edges shared by all classes:  638 
+L1 norm of off-diagonal elements of classes' Thetas:  1888.241 1271.79 
